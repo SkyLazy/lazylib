@@ -5,7 +5,7 @@ import java.util.Map;
 public class mmallUtil {
 
     /**
-     * @author lazy
+     * @author lazy1
      * @param object
      * @return
      */
